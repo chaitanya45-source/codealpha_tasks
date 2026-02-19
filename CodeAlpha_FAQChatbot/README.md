@@ -3,6 +3,9 @@
 An intelligent FAQ chatbot built using **Python, NLP, and Streamlit**.  
 The chatbot matches user questions with predefined FAQs using **TF-IDF vectorization** and **Cosine Similarity** and responds through a simple chat interface.
 
+## 📸 Chatbot UI
+
+![Chatbot UI](images/chatbot_ui.png)
 ---
 
 # Features
@@ -27,5 +30,17 @@ The chatbot matches user questions with predefined FAQs using **TF-IDF vectoriza
 
 ---
 
-# Project Structure
+## 📂 Project Structure
+
+CodeAlpha_FAQChatbot/
+│
+├── data/                # FAQ dataset
+├── src/                 # NLP logic and processing
+├── ui/                  # Streamlit UI components
+├── images/              # Screenshots
+├── app.py               # Main application file
+├── requirements.txt     # Dependencies
+├── README.md            # Project documentation
+└── .gitignore           # Ignored files
+
 
