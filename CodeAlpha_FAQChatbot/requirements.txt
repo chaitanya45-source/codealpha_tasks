@@ -1,0 +1,11 @@
+streamlit
+nltk
+scikit-learn
+numpy
+scipy
+joblib
+threadpoolctl
+tqdm
+regex
+colorama
+click
